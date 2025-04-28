@@ -58,7 +58,7 @@ Este projeto é uma aplicação simples feita com **Streamlit** e **Workalendar*
 
 ## 📸 Tela da aplicação
 
-*(adicione aqui um printscreen depois que estiver funcionando!)*
+*![alt text](image.png)*
 
 ---
 
