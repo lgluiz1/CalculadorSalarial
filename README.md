@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação simples feita com **Streamlit** e **Workalendar** que calcula o salário proporcional baseado na quantidade de **dias úteis** entre duas datas, descontando automaticamente **finais de semana** e **feriados** nacionais do Brasil.
 
-[Streamlit](https://caculadorasalarial.streamlit.app/) — Voçê pode visualiza o projeto aqui nesse link.
+[Deploy Projeto aqui](https://caculadorasalarial.streamlit.app/) — Voçê pode visualiza o projeto aqui nesse link.
 
 ---
 
