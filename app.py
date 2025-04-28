@@ -1,5 +1,13 @@
 import streamlit as st
 
+def calcular_dias_trabalhados(data_inicial, data_final):
+    dias_trabalhados = (data_final - data_inicial).days
+    return dias_trabalhados
+
+def calcular_salario_bruto(dias_trabalhados, salario):
+    salario_bruto = dias_trabalhados * salario
+    return salario_bruto
+
 def main():
     st.title('Calculadora')
 
